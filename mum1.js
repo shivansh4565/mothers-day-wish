@@ -4,7 +4,7 @@ var rotateSpeed = -60;
 var imgWidth = 120; 
 var imgHeight = 170; 
 
-var bgMusicURL = 'https://user-images.githubusercontent.com/151072490/283747943-7b08424b-8647-4bdc-996c-965063dbb5e3.mp4';
+var bgMusicURL = 'here youcan add the song as per your convinence';
 var bgMusicControls = true; 
 
 setTimeout(init, 1000);
